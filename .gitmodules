@@ -1,0 +1,6 @@
+[submodule "qr_code_scanner"]
+	path = qr_code_scanner
+	url = https://github.com/shuaiwang007/qr_code_scanner.git
+[submodule "multi_image_picker"]
+	path = multi_image_picker
+	url = https://github.com/shuaiwang007/multi_image_picker.git
